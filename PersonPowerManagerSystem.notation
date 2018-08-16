@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_JYHGoEXWEeiHMYrUlzAnmA" type="PapyrusUMLActivityDiagram" name="NewActivityDiagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_JYHGoUXWEeiHMYrUlzAnmA" type="Activity_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_JYHGokXWEeiHMYrUlzAnmA" type="Activity_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JYHGpEXWEeiHMYrUlzAnmA" type="Activity_ParameterCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_JYHGpUXWEeiHMYrUlzAnmA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_JYHGpkXWEeiHMYrUlzAnmA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYHGp0XWEeiHMYrUlzAnmA"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JYHGqEXWEeiHMYrUlzAnmA" type="Activity_PreconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_JYHGqUXWEeiHMYrUlzAnmA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_JYHGqkXWEeiHMYrUlzAnmA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYHGq0XWEeiHMYrUlzAnmA"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JYHGrEXWEeiHMYrUlzAnmA" type="Activity_PostconditionCompartment">
+        <styles xmi:type="notation:SortingStyle" xmi:id="_JYHGrUXWEeiHMYrUlzAnmA"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_JYHGrkXWEeiHMYrUlzAnmA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYHGr0XWEeiHMYrUlzAnmA"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_JYHGsEXWEeiHMYrUlzAnmA" type="Activity_ActivityNodeCompartment">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYHGsUXWEeiHMYrUlzAnmA"/>
+      </children>
+      <element xmi:type="uml:Activity" href="PersonPowerManagerSystem.uml#_JKI8EEXWEeiHMYrUlzAnmA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JYHGskXWEeiHMYrUlzAnmA" width="1141" height="281"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_JYHGs0XWEeiHMYrUlzAnmA" name="diagram_compatibility_version" stringValue="1.3.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_JYHGtEXWEeiHMYrUlzAnmA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_JYHGtUXWEeiHMYrUlzAnmA" diagramKindId="org.eclipse.papyrus.uml.diagram.activity">
+      <owner xmi:type="uml:Model" href="PersonPowerManagerSystem.uml#_Fm6s8EXWEeiHMYrUlzAnmA"/>
+    </styles>
+    <element xmi:type="uml:Activity" href="PersonPowerManagerSystem.uml#_JKI8EEXWEeiHMYrUlzAnmA"/>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_ga0X0EXXEeiHMYrUlzAnmA" type="PapyrusUMLSequenceDiagram" name="SequenceDiagram" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_ga0X0UXXEeiHMYrUlzAnmA" type="Interaction_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_ga0X0kXXEeiHMYrUlzAnmA" type="Interaction_NameLabel"/>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_ga0X00XXEeiHMYrUlzAnmA" type="Interaction_SubfragmentCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_cT5JQEXYEeiHMYrUlzAnmA" type="CombinedFragment_Shape">
+          <children xmi:type="notation:BasicCompartment" xmi:id="_cT5JQkXYEeiHMYrUlzAnmA" type="CombinedFragment_SubfragmentCompartment">
+            <children xmi:type="notation:Shape" xmi:id="_cT5wUEXYEeiHMYrUlzAnmA" type="InteractionOperand_Shape">
+              <children xmi:type="notation:DecorationNode" xmi:id="_cT5wUkXYEeiHMYrUlzAnmA" type="InteractionOperand_Guard">
+                <element xmi:type="uml:InteractionConstraint" href="PersonPowerManagerSystem.uml#_cT030UXYEeiHMYrUlzAnmA"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cT5wU0XYEeiHMYrUlzAnmA" x="5" y="5"/>
+              </children>
+              <element xmi:type="uml:InteractionOperand" href="PersonPowerManagerSystem.uml#_cT030EXYEeiHMYrUlzAnmA"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cT5wUUXYEeiHMYrUlzAnmA"/>
+            </children>
+            <styles xmi:type="notation:SortingStyle" xmi:id="_cT5JQ0XYEeiHMYrUlzAnmA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_cT5JREXYEeiHMYrUlzAnmA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cT5JRUXYEeiHMYrUlzAnmA"/>
+          </children>
+          <element xmi:type="uml:CombinedFragment" href="PersonPowerManagerSystem.uml#_cTybkEXYEeiHMYrUlzAnmA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cT5JQUXYEeiHMYrUlzAnmA" x="193" y="90"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_hUBQsEXXEeiHMYrUlzAnmA" type="Lifeline_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_hUB3wEXXEeiHMYrUlzAnmA" type="Lifeline_NameLabel"/>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_hUzT0EXXEeiHMYrUlzAnmA" type="compartment_shape_display">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_hUzT0UXXEeiHMYrUlzAnmA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hUzT0kXXEeiHMYrUlzAnmA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_PmzLkEXYEeiHMYrUlzAnmA" type="ActionExecutionSpecification_Shape">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PmzLkUXYEeiHMYrUlzAnmA" x="-60" y="320" width="20" height="60"/>
+          </children>
+          <element xmi:type="uml:Lifeline" href="PersonPowerManagerSystem.uml#_hT-0cEXXEeiHMYrUlzAnmA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hUBQsUXXEeiHMYrUlzAnmA" x="54" y="10"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_hyeuUEXXEeiHMYrUlzAnmA" type="Lifeline_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_hyeuUkXXEeiHMYrUlzAnmA" type="Lifeline_NameLabel"/>
+          <children xmi:type="notation:BasicCompartment" xmi:id="_hyi_wEXXEeiHMYrUlzAnmA" type="compartment_shape_display">
+            <styles xmi:type="notation:TitleStyle" xmi:id="_hyi_wUXXEeiHMYrUlzAnmA"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hyi_wkXXEeiHMYrUlzAnmA"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_64X0sEXXEeiHMYrUlzAnmA" type="ActionExecutionSpecification_Shape">
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_64X0sUXXEeiHMYrUlzAnmA" x="180" y="126" width="20" height="100"/>
+          </children>
+          <element xmi:type="uml:Lifeline" href="PersonPowerManagerSystem.uml#_hycSEEXXEeiHMYrUlzAnmA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hyeuUUXXEeiHMYrUlzAnmA" x="354" y="10"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_iFE6MEXXEeiHMYrUlzAnmA" type="Lifeline_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_iFE6MkXXEeiHMYrUlzAnmA" type="Lifeline_NameLabel"/>
+          <element xmi:type="uml:Lifeline" href="PersonPowerManagerSystem.uml#_iFB24EXXEeiHMYrUlzAnmA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iFE6MUXXEeiHMYrUlzAnmA" x="494" y="10"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_BxQ_IEXYEeiHMYrUlzAnmA" type="Lifeline_Shape">
+          <children xmi:type="notation:DecorationNode" xmi:id="_BxQ_IkXYEeiHMYrUlzAnmA" type="Lifeline_NameLabel"/>
+          <element xmi:type="uml:Lifeline" href="PersonPowerManagerSystem.uml#_BxMGoEXYEeiHMYrUlzAnmA"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BxQ_IUXYEeiHMYrUlzAnmA" x="214" y="10"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ga0X1EXXEeiHMYrUlzAnmA"/>
+      </children>
+      <element xmi:type="uml:Interaction" href="PersonPowerManagerSystem.uml#_fiV3sEXXEeiHMYrUlzAnmA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ga0X1UXXEeiHMYrUlzAnmA"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_ga0X1kXXEeiHMYrUlzAnmA" name="diagram_compatibility_version" stringValue="1.3.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_ga0X10XXEeiHMYrUlzAnmA"/>
+    <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_ga0X2EXXEeiHMYrUlzAnmA" diagramKindId="org.eclipse.papyrus.uml.diagram.sequence">
+      <owner xmi:type="uml:Model" href="PersonPowerManagerSystem.uml#_Fm6s8EXWEeiHMYrUlzAnmA"/>
+    </styles>
+    <element xmi:type="uml:Interaction" href="PersonPowerManagerSystem.uml#_fiV3sEXXEeiHMYrUlzAnmA"/>
+    <edges xmi:type="notation:Connector" xmi:id="_vcQ9wEXXEeiHMYrUlzAnmA" type="Message_SynchEdge" source="_hUBQsEXXEeiHMYrUlzAnmA" target="_BxQ_IEXYEeiHMYrUlzAnmA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_vcQ9w0XXEeiHMYrUlzAnmA" type="Message_SynchNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vcQ9xEXXEeiHMYrUlzAnmA" x="1" y="-13"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_vcQ9xUXXEeiHMYrUlzAnmA" type="Message_SynchStereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_vcQ9xkXXEeiHMYrUlzAnmA" x="1" y="-33"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_vcQ9wUXXEeiHMYrUlzAnmA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_vcQ9x0XXEeiHMYrUlzAnmA"/>
+      <element xmi:type="uml:Message" href="PersonPowerManagerSystem.uml#_vcBGIEXXEeiHMYrUlzAnmA"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vcQ9wkXXEeiHMYrUlzAnmA" points="[0, 0, -180, 0]$[180, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vclt4EXXEeiHMYrUlzAnmA" id="(0.5,0.06571428571428571)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_vclt4UXXEeiHMYrUlzAnmA" id="(0.5,0.06571428571428571)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
